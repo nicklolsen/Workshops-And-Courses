@@ -6,3 +6,4 @@ These are some (but not all) practice files from workshops, books, courses, etc 
 
 * Advanced JS Fundamentals to jQuery & Pure DOM Scripting
 * Organizing JavaScript Functionality
+* Eloquent JavaScript
