@@ -7,3 +7,4 @@ http://eloquentjavascript.net/
 2. Program Structure
 3. Functions
 4. Data Structures: Objects and Arrays
+5. Higher Order Functions
