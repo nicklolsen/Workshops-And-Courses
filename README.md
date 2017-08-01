@@ -4,5 +4,5 @@ These are some (but not all) practice files from workshops, books, courses, etc 
 
 ## Frontend Masters
 
-* Advanced JS Fundamentals to jQuery & Purse DOM Scripting
+* Advanced JS Fundamentals to jQuery & Pure DOM Scripting
 * Organizing JavaScript Functionality
